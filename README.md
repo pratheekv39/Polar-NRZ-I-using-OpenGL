@@ -15,7 +15,10 @@ After installing it, follow the given steps:
   7) Use the Local Windows Debugger option in the top bar to run the file or use the shortcut Ctrl +F5 .
   8) If you cannot understand how to do it , watch the given youtube video to setup your Visual Studio 2022:
       [Setting up OpenGL in Visual Studio 2022](https://youtu.be/PeeyWLzRWGg?si=5SRm5CczUR90dQLi)
-  9) The output of the file is to be given dynamically ( i.e., on User Input, the Polar NRZ-I signal is generated)
+     
+  10) The output of the file is to be given dynamically ( i.e., on User Input, the Polar NRZ-I signal is generated)
+      
         i)  On pressing 0 from the keyboard, the signal remains in the same level as that of before.
+     
         ii) On pressing 1 from the keyboard, the signal alternates between positive and negative levels.(Here, on intial input of 1, it goes to the +ve level)
       
